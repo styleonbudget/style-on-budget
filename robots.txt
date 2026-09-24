@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://styleonbudget.github.io/style-on-budget/sitemap.xml
